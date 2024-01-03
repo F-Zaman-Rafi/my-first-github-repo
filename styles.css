@@ -1,0 +1,13 @@
+h1 {
+  background-color: green;
+  margin: 2%;
+  margin-top: 4%;
+  border: 5px dotted red;
+  padding: 2%;
+}
+.blog {
+  background-color: yellow;
+  margin: 2%;
+  border: 5px dashed pink;
+  box-shadow: 10px 10px 10px blueviolet;
+}
