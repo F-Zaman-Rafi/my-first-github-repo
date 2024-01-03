@@ -10,6 +10,8 @@ h1 {
   margin: 2%;
   border: 5px dashed pink;
   box-shadow: 10px 10px 10px blueviolet;
+  padding-left: 10px;
+  padding-right: 7px;
 }
 h2 {
   background-color: orange;
