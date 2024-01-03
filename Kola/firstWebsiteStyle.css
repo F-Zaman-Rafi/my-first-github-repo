@@ -1,0 +1,56 @@
+h2 {
+    color: burlywood;
+}
+
+#welcome {
+    color: red;
+}
+
+a:hover {
+    text-decoration: solid red;
+}
+
+#milk {
+    color: hotpink;
+}
+
+#extra {
+    color: crimson;
+}
+
+#little {
+    color: palevioletred;
+}
+
+#creamless {
+    color: lightseagreen;
+}
+
+#desi {
+    color: dimgrey;
+}
+
+#malay {
+    color: mediumslateblue;
+}
+
+#chinese {
+    color: chocolate;
+}
+
+#location {
+    color: maroon;
+}
+
+#style {
+    color: red;
+}
+
+#sale {
+    color: chartreuse;
+    background-color: black;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 122px;
+}
